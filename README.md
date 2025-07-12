@@ -11,6 +11,8 @@ The main project is found in the crop_selection.ipynb file: `crop_selection.ipyn
 ### Dataset Source:
 The dataset source was extracted from UCI or Kaggle. The data is found in the .csv file extension `soil_measures.csv`
 
+The dataset 
+
 ### Model Evaluation:
 The logistic classification model predictions were evaluated with the following metrics: accuracy, precision, recall, and F1; a confusion matrix was also created for the predictions.
 
@@ -29,6 +31,13 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 ```
 ### Results & Visualizations: 
+
+#### Preprocessing: 
+For Logistic Regression and for classification models in general, it's important to scale your data so that the model treats all features fairly. Scaling is also important as it assists with convergence. Model tuning was also performed.
+  - [x] StandardScaler() to scale the data.
+  - [x] Selection of lbfgs for small-to-medium datasets.
+  - [ ] 
+  
 
 
 
