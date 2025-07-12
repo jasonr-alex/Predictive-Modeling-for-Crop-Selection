@@ -7,4 +7,4 @@ Soil condition is instrumental for decision-making when selecting the best crops
 
 ## How to Run the Project: 
 The main project is found in the crop_selction.ipynb file:
-`crop_selection.ipynb`
+                `crop_selection.ipynb`
