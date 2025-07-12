@@ -43,11 +43,13 @@ Analysis for any missing values was done as well; any missing values would also 
   - [x] Handled missing values
 
 ### Results & Visualizations: 
-The logistic regression model, without performing any feature scaling, scored with an accuracy of 61.3%; with scaling, that prediction performance improved to 65.9%.
-
-Conducting the analysis for feature importance, it was found that the single most important feature for predictive performance is 
+The logistic regression model, without performing any feature scaling, scored with an accuracy of 61.3%; with scaling, that prediction performance improved to 65.9%. Based on the classification report, we can also see the predictive performance. 
 
 
+<img width="441" height="614" alt="Screenshot 2025-07-12 at 3 00 00 PM" src="https://github.com/user-attachments/assets/c3d6f6b2-bd44-4576-93dd-7f014d054f6e" />
+
+
+Conducting the analysis for feature importance, it was found that the single most important feature for predictive performance is potassium (K).
 
 
 <img width="1148" height="907" alt="image" src="https://github.com/user-attachments/assets/d7eddfb0-eae8-4840-9d6b-8c57fcc81a43" />
