@@ -36,7 +36,9 @@ from sklearn.preprocessing import StandardScaler
 For Logistic Regression and for classification models in general, it's important to scale your data so that the model treats all features fairly. Scaling is also important as it assists with convergence. Model tuning was also performed.
   - [x] StandardScaler() to scale the data.
   - [x] Selection of lbfgs for small-to-medium datasets.
-  - [ ] 
+  - [x] Maximum iterations for training set to 500
+
+
   
 
 
