@@ -36,13 +36,22 @@ For Logistic Regression and classification models in general, it's essential to 
 
 The training dataset was also checked to see if there was a balanced distribution of the number of crops; imbalance can affect the prediction outcomes for the model.
 
-Analysis for any missing values was done as well; any missing values would also mean a lack of essential data for the model. No missing values were found in the dataset; no imputation was performed. 
+Analysis for any missing values was done as well; any missing values would also mean a lack of essential data for the model. No missing values were found in the dataset; no imputation was performed.
 
   - [x] StandardScaler() to scale the data.
   - [x] Balance trained dataset
   - [x] Handled missing values
 
 ### Results & Visualizations: 
+The logistic regression model, without performing any feature scaling, scored with an accuracy of 61.3%; with scaling, that prediction performance improved to 65.9%.
+
+Conducting the analysis for feature importance, it was found that the single most important feature for predictive performance is 
+
+
+
+
+<img width="1148" height="907" alt="image" src="https://github.com/user-attachments/assets/d7eddfb0-eae8-4840-9d6b-8c57fcc81a43" />
+
 
 
   
