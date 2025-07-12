@@ -14,6 +14,18 @@ The dataset source was extracted from UCI or Kaggle. The data is found in the .c
 ### Model Evaluation:
 The logistic classification model predictions were evaluated with the following metrics: accuracy, precision, recall, and F1; a confusion matrix was also created for the predictions.
 
-### Dependencies
+### Dependencies:
+All necessary libraries are included within the Jupyter Notebook.
+
+Here is the list of the necessary packages:
+"""
+import pandas as pd
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn import metrics
+from sklearn.metrics import confusion_matrix, classification_report
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler
+""" 
 
 
