@@ -8,10 +8,8 @@ Soil condition is instrumental for decision-making when selecting the best crops
 ### How to Run the Project: 
 The main project is found in the crop_selection.ipynb file: `crop_selection.ipynb`
 
-### Dataset Source:
+### Dataset Source & Details:
 The dataset source was extracted from UCI or Kaggle. The data is found in the .csv file extension `soil_measures.csv`
-
-The dataset 
 
 ### Model Evaluation:
 The logistic classification model predictions were evaluated with the following metrics: accuracy, precision, recall, and F1; a confusion matrix was also created for the predictions.
@@ -30,7 +28,8 @@ from sklearn.metrics import confusion_matrix, classification_report
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 ```
-### Results & Visualizations: 
+
+### Methodology
 
 #### Preprocessing
 For Logistic Regression and classification models in general, it's essential to scale your data so that the model treats all features fairly. Scaling is also crucial as it assists with convergence. 
@@ -43,7 +42,7 @@ Analysis for any missing values was done as well; any missing values would also 
   - [x] Balance trained dataset
   - [x] Handled missing values
 
-#### Results
+### Results & Visualizations: 
 
 
   
