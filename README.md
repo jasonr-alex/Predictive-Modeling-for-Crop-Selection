@@ -6,7 +6,7 @@
 Soil condition is instrumental for decision-making when selecting the best crops. The elements of the soil that are critical for crop selection are nitrogen (N), phosphorus (P), potassium (K), and pH. However, assessing these levels can be costly and time-consuming, often leading farmers to prioritize only metrics within their budget. In this project, I execute a logistic regression classification to decide which crop to plant each season and identify the most critical feature for predictive performance. 
 
 ## How to Run the Project: 
-The main project is found in the crop_selction.ipynb file: `crop_selection.ipynb`
+The main project is found in the crop_selection.ipynb file: `crop_selection.ipynb`
 
 ## Dataset Source:
 The dataset source was extracted from UCI or Kaggle. The data is found in the .csv file extension `soil_measures.csv`
