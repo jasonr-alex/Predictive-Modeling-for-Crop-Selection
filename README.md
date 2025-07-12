@@ -18,7 +18,8 @@ The logistic classification model predictions were evaluated with the following 
 All necessary libraries are included within the Jupyter Notebook.
 
 Here is the list of the necessary packages:
-"""
+
+```
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
@@ -26,6 +27,6 @@ from sklearn import metrics
 from sklearn.metrics import confusion_matrix, classification_report
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
-""" 
+``` 
 
 
