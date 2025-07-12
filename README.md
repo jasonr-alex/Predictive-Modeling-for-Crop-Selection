@@ -9,5 +9,11 @@ Soil condition is instrumental for decision-making when selecting the best crops
 The main project is found in the crop_selction.ipynb file: `crop_selection.ipynb`
 
 ## Dataset Source:
-The dataset source was extracted from: UCI or Kaggle. The data is found in the .csv file extension `soil_measures.csv`
+The dataset source was extracted from UCI or Kaggle. The data is found in the .csv file extension `soil_measures.csv`
+
+## Model Evaluation:
+The logistic classification model predictions were evaluated with the following metrics: accuracy, precision, recall, and F1. A confusion matrix was also created for the predictions.
+
+## Dependencies
+
 
