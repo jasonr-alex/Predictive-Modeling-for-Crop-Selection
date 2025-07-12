@@ -33,12 +33,18 @@ from sklearn.preprocessing import StandardScaler
 ### Results & Visualizations: 
 
 #### Preprocessing
-For Logistic Regression and for classification models in general, it's important to scale your data so that the model treats all features fairly. Scaling is also important as it assists with convergence. The training dataset was also checked to see if there was a balanced distribution of the number of crops; imbalance can affect the prediction outcomes for the model.
+For Logistic Regression and classification models in general, it's essential to scale your data so that the model treats all features fairly. Scaling is also crucial as it assists with convergence. 
+
+The training dataset was also checked to see if there was a balanced distribution of the number of crops; imbalance can affect the prediction outcomes for the model.
+
+Analysis for any missing values was done as well; any missing values would also mean a lack of essential data for the model. No missing values were found in the dataset; no imputation was performed. 
 
   - [x] StandardScaler() to scale the data.
   - [x] Balance trained dataset
+  - [x] Handled missing values
 
 #### Results
+
 
   
 
