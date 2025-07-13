@@ -62,7 +62,8 @@ Analyzing the importance of features, it was found that the single most crucial 
 Furthermore, classification reports have also been included to show how the model performs in classifying based on a single feature. 
 <br><br>
 
-<img width="1148" height="907" alt="image" src="https://github.com/user-attachments/assets/d7eddfb0-eae8-4840-9d6b-8c57fcc81a43" />
+<img width="1148" height="907" alt="image" src="https://github.com/user-attachments/assets/361b4d12-00ad-439f-935e-c8476a59af33" />
+
 
 
 
