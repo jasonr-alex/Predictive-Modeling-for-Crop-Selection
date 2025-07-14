@@ -1,4 +1,4 @@
-## Predictive Modeling for Crop Selection
+# Predictive Modeling for Crop Selection
 
 <img width="530" height="354" alt="image" src="https://github.com/user-attachments/assets/b7bdb1eb-de96-42cf-a8fc-e6293d443868" />
 
