@@ -9,7 +9,7 @@ Soil condition is instrumental for decision-making when selecting the best crops
 The most important feature for predictive performance would be the pH.
 
 ### How to Run the Project: 
-The main project is found in the crop_selection.ipynb file: `crop_selection.ipynb`
+The main project is found in the crop_selection_final.ipynb file: `crop_selection.ipynb`
 
 ### Dataset Source & Details:
 The dataset source was extracted from UCI or Kaggle. The data is found in the .csv file extension `soil_measures.csv`
